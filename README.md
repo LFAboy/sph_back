@@ -97,3 +97,9 @@ Modern browsers and Internet Explorer 10+.
 [MIT](https://github.com/PanJiaChen/vue-admin-template/blob/master/LICENSE) license.
 
 Copyright (c) 2017-present PanJiaChen
+
+
+
+本项目数据来自培训机构 尚品汇。仅做为学习练习使用 Vue2 和积累项目经验使用。
+友情提示：此项目未作移动端适配，建议使用 PC端访问。
+后续将推出Vue3 版本的后台管理项目，以及 完善这个项目。敬请期待。。。
